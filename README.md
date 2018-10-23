@@ -1,2 +1,2 @@
-# FinDataChartsSwiper
-Angular 6
+#Angular with swiper
+
